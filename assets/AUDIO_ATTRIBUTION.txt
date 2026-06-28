@@ -1,0 +1,6 @@
+Cat sound used in app:
+- File: Meow domestic cat.ogg (converted to meow.wav for app compatibility)
+- Source: Wikimedia Commons
+- URL: https://commons.wikimedia.org/wiki/File:Meow_domestic_cat.ogg
+- Direct file URL: https://commons.wikimedia.org/wiki/Special:FilePath/Meow_domestic_cat.ogg
+- License: Check the file page for current license details and attribution requirements.
